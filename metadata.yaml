@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/846
     wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27822#Zwei-Prager-Geschichten
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2009-01-17'
 gutenberg_type: Text
